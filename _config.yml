@@ -1,0 +1,28 @@
+name: cocoaflow
+favicon: null
+layout_spectrum: 0.9938830104656518
+typography_spectrum: 0.7486034035682678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4627638990059495
+  lightness: 0.6478802424389869
+  saturation: 0.27614683797582984
+  rhythmicContrast: 0.9518945121672004
+purpose: []
